@@ -72,6 +72,10 @@ dev_dependencies:
   # Unit test
   test:
   bloc_test: 8.0.1
+  
+  #To generate a coverage report
+  dev_dependencies:
+  coverage: ^1.0.3
 
 
 # For information on the generic Dart part of this file, see the
